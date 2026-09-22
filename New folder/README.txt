@@ -9,5 +9,3 @@ INSTALL INSTRUCTIONS: 		npm install
 
 
 TESTING INSTRUCTIONS:		http://localhost:3000/curling.html
-
-YOUTUBE VIDEO URL:		https://youtu.be/tmhAPoACcLg
